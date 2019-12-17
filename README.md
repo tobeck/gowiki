@@ -1,0 +1,1 @@
+# Golang wikipage test project
